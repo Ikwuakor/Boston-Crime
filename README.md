@@ -6,9 +6,9 @@
 
 In the fallout of recent mass shootings and what seem like daily news reports of gun related tragedies, gun violence, and how best to stop or reduce it, has been a lightning rod of American political discourse. With this data set, I aim to explore the city of Boston, as a microcosm of a greater national concern, and the areas inside of the city where gun crime is most prevalent; emphasis on shootings and gun-related homicides in particular. I will examine which parts of Boston, relative to the downtown Boston area, present the greatest risks of potential gun violence and towards which areas, or whether or not, gun activity is migrating within Boston. I will also examine which time of the day, days of the week, and months of the year gun violence is most likely to occur. The following report could serve as:
 
-an advisory to cautious travelers and Boston residents
-a precursor to future examinations from the crime incident report system, when it acquires more years of data
-predictive analysis for any organizations or law enforcement agencies wishing to tackle gun violence in the city
-a complement to data sets that explore various statistics for the city of Boston
-a template for similar examinations on the state or national level
-With this report, I aim to answer where, geographically, gun crime is most prevalent in Boston, when it's most prevalent, and most importantly, to provide some clarity on the predictability of the 'when' and 'where' of gun violence, from year to year. We begin with summary statistics for out data set.
++ an advisory to cautious travelers and Boston residents
++ a precursor to future examinations from the crime incident report system, when it acquires more years of data
++ predictive analysis for any organizations or law enforcement agencies wishing to tackle gun violence in the city
++ a complement to data sets that explore various statistics for the city of Boston
++ a template for similar examinations on the state or national level
++ With this report, I aim to answer where, geographically, gun crime is most prevalent in Boston, when it's most prevalent, and most importantly, to provide some clarity on the predictability of the 'when' and 'where' of gun violence, from year to year. We begin with summary statistics for out data set.
