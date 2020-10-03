@@ -59,7 +59,7 @@ Interestingly, when we plot the geographic coordinates for _Crime Central_ from 
 
 _Homicide Central_ is located approximately 3 miles south and 1 mile west of downtown Boston can assume a normal distribution of homicides relative to _Homicide Central_ , which isn't far-fetched if we consider the distributions found above in _FIGURE 2_ around the 3 mile marker and 1 mile marker, for latitude and longitude respectively. With a latitudinal standard deviation of about 1.8 miles, and a longitudinal standard deviation of about one mile, we can draw a border around the rectangular space where approximately 68% of all homicides occur. We can see this area represented by the red rectangle shown above in the 'Central Tendencies' map. Granted the measurement is just a ballpark, but this information provides a more specific area of Boston where anti-gun violence measures can be focused and concentrated.
 
-![image](https://user-images.githubusercontent.com/42311832/94983916-fba70580-0503-11eb-87e0-fd3f638a107f.png)
+![image](https://user-images.githubusercontent.com/42311832/94984052-378e9a80-0505-11eb-98be-3643749bced6.png)
 
 ## Crime Fluctuation
 
@@ -69,5 +69,6 @@ With gun crime, we can see that the 2017 fluctuations from month to month mainta
 
 Interestingly, these upticks in shootings don't seem to be predictive of a similar uptick in homicides, themselves, let alone in regards to monthly distribution. Although shootings increased over 34% from 269 shootings in 2016 to 361 shootings in 2017, this led to an increase in homicides of only about 11% (45 homicides in 2016 to 50 homicides in 2017).
 
-![image](https://user-images.githubusercontent.com/42311832/94983923-1da08800-0504-11eb-8ee1-bea7c6c455ab.png)
+![image](https://use![image](https://user-images.githubusercontent.com/42311832/94984062-52f9a580-0505-11eb-8877-f29f2aed1411.png)
+r-images.githubusercontent.com/42311832/94983923-1da08800-0504-11eb-8ee1-bea7c6c455ab.png)
 
