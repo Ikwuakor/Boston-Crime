@@ -72,4 +72,34 @@ Interestingly, these upticks in shootings don't seem to be predictive of a simil
 ![image](https://user-images.githubusercontent.com/42311832/94984073-71f83780-0505-11eb-871e-1c88fc33ea2c.png)
 ![image](https://user-images.githubusercontent.com/42311832/94984115-ee8b1600-0505-11eb-9c35-56521e5e3c32.png)
 
+## Day of the Week
 
+Although it may not be surprising to see that most shootings and homicides occur on the weekends, ie. Friday, Saturday and Sunday ( _FIGURE 4.1_ ), it's not until we examine the hours of the day that shootings occur that we gain additional insight into gun violence behavior, as well as a concerning trend in data entry that might be skewing the perception on what time of day gun violence tends to occur.
+
+In _FIGURE 4.2_ , we can see that gun violence between the hours of 5 AM and 10 AM is relatively infrequent when compared to nighttime gun activity. If we were to expand the swarmplot portion of -FIGURE 4.2_ horizontally, we would also see that there is an unusual amount of shootings that are documented as occurring at midnight. The fact that there are so many more shootings occurring at midnight than at, say, 11 PM or 1 AM makes me wonder if police document any shooting that occurs "in the middle of the night" as having occurred at midnight, when a precise time of shooting is unknown. This is a concern that warrants further investigation. If, for now, we assume the data is accurate, or at least that a significant amount of midnight shootings actually occurred at midnight, we can take a closer look at the hourly distribution of shootings and perhaps why early AM shootings are treated as outliers in the boxplot portion of _FIGURE 4.2_ .
+
+![image](https://user-images.githubusercontent.com/42311832/94984284-c56b8500-0507-11eb-8c7a-32a393d13640.png)
+
+## Hour of the Day
+
+When we begin to examine the hours of the day that shootings take place, it becomes a bit more clear that the day of the week that the shootings take place is not quite as telling as we may originally have thought. If we look at _FIGURE 5.1_ , it would appear that the mean hour of daily shootings would fall somewhere between 1 PM and 8 PM (as the boxplots in _FIGURE 4.2_ would attest). This sort of distribution could make it seem that early AM shootings are outside of the bulk of most daily shootings. However, if we consider that the beginning and ending hour of a particular day is arbitrary and that, perhaps, the daily human behavior we wish to observe doesn't necessarily begin and end at those same hours, we can choose to observe gun violence behavior at different times, like from 8 AM until 8 AM the next day. If we do that, we can see that gun violence seems to have a multi-modal, natural distribution, one of the modes being the suspicious midnight hour we discussed previously.
+
+Combining this information with the daily distribution information, we can deduce that gun activity is most prevalent during the afternoon and nighttime hours, of around 4 PM to about 2 AM, and from Friday night into Saturday morning, Saturday night into Sunday morning, and Sunday night into Monday morning. So how could all the information we've gathered from this data, and summarized in the previous plots and charts, be used to curb gun violence?
+
+Based on the analysis of this report, one might recommend that law enforcement provide extra patrols in the Dudley/Brunswick King neighborhood, 1.8 miles north and south and one mile east and west of the intersection at Intervale St. and Coleus Park, between the hours of 4 PM and 2 AM, Friday night through Monday morning...perhaps between the months of May and October? This is just one example of how this analysis could help target anti-gun violence measures in the city of Boston.
+
+## Future Work
+
+This report is simply the tip of the iceberg. The geographical crime data contained in this report can be combined with with geographical data for:
+
+- zoning maps, waterways, railways, and highways
+- airports, bus stops, schools, housing developments, and office buildings
+- churches, banks, and retail/shopping spaces
+- weather data and moon phase (night lighting/visibility)
+- population and employment rates
+
+The data in this data set could serve as a complement to data sets like those mentioned above, the parameters therein, and to what extent gun violence, and overall crime, migrate in response to changes in those parameters.
+
+I've also experimented with creating a sort of crime 'wind plot' which would indicate in which direction crime, or gun violence specifically, is migrating from year to year, for every square mile of the city. Each square mile would have the crime/gun violence trend indicated by a vector that indicates direction, and perhaps the magnitude of the vector used to indicate the distance in which that crime migrated. I'll also have to find a way to plot the data points a little bit more accurately upon the map, although at this point I'm not sure if I might have to find some way to account for the curvature of the earth.
+
+To see the entire project, complete with code, click <a href="https://github.com/Ikwuakor/Boston-Crime/blob/master/Boston%20Crime.ipynb">here</a>.
