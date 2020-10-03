@@ -32,3 +32,19 @@ In order to understand approximately how far crimes are taking place from downto
 - 1° of longitude = *cos*(latitude in radians) * 69.172 miles
 
 According to Google Maps, downtown Boston is centrally located at 42.3557° N, 71.0572° W, near the intersection of Devonshire St. and Franklin St. These will be the coordinates we use to centralize our plots and the latitude we use to approximate our longitude-to-miles conversion (51.12 miles per longitudinal degree).
+
+![image](https://user-images.githubusercontent.com/42311832/94982177-bd0a4e80-04f5-11eb-8751-d7cfeda1d9b6.png)
+
+## Crime Distance
+
+*FIGURE 2* confirms what we could already see from *IMAGE 1* above. However, now we know approximately how far the gun violence hot spots are from downtown Boston. It's from about one mile to about five or six miles south of downtown Boston that gun violence is the most prevalent, with about three miles south being the latitude of peak activity. We can also see that the bulk of gun violence occurs within two miles west of downtown Boston's longitude.
+
+The Cartesian distance can be thought of as the 'true' distance from downtown Boston in which most gun violence occurs.  Each bin in the Cartesian histogram represents a ring, the inner and outer radius of which correspond with the lower and upper bounds of each bin, ie. each ring is a mile wide. Since each bin represents a geographical ring with ever increasing area, we have an ever increasing ratio of area to gun violence events. So although the radius is helpful in determining the distance of crimes, the prevalence of crimes might be skewed since a larger gun violence count could simply be accounted for by the larger area encapsulated by the ring. That being said, the Cartesian graph doesn't assign the largest gun violence counts to the outermost rings, therefore, we still have confirmation that gun violence is still clustered at most within a four mile radius.
+
+With this information, outreach programs can focus their efforts to the parts of the city that fall within their desired proximity of downtown. Law enforcement could use this information to focus their patrol or surveillance efforts in strategically advantageous proximity as well.
+
+![image](https://user-images.githubusercontent.com/42311832/94982195-ec20c000-04f5-11eb-8bba-9dc6364a062d.png)
+
+## Central Tendency of Crime and Homicide Coordinates
+
+With a data set like that compiled by the BPD's crime incident report system, mean latitudes and mean longitudes for specific crimes can be plotted, and the distances between mean coordinates and various locales can be measured. For the purposes of this report, the central coordinates for overall crime, _Crime Central_ , and for homicides,  _Homicide Central_ , have been plotted to provide insight, visually, into how far from downtown homicides cluster, as well as just how far they cluster from each other. From our previous map plot, we could see that where crime incidents tend to clutter, so did shootings and homicides. With this plot, however, we can see that although crime and homicides have mean coordinates to the southwest of downtown Boston, there is a bit of divergence between the two. In the case of _Homicide Central_ , the distance and location is consistent with the distances and directions we discussed with _FIGURE 2_. It would appear that something else, in addition to overall crime, is influencing the geographic location of gun crime, and homicides in particular. Nonetheless, gun crime follows a trend which, even without knowing all of its causes, remains remarkably consistent from 2016 to 2017.
