@@ -70,5 +70,6 @@ With gun crime, we can see that the 2017 fluctuations from month to month mainta
 Interestingly, these upticks in shootings don't seem to be predictive of a similar uptick in homicides, themselves, let alone in regards to monthly distribution. Although shootings increased over 34% from 269 shootings in 2016 to 361 shootings in 2017, this led to an increase in homicides of only about 11% (45 homicides in 2016 to 50 homicides in 2017).
 
 ![image](https://user-images.githubusercontent.com/42311832/94984073-71f83780-0505-11eb-871e-1c88fc33ea2c.png)
+![image](https://user-images.githubusercontent.com/42311832/94984115-ee8b1600-0505-11eb-9c35-56521e5e3c32.png)
 
 
