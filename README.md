@@ -59,7 +59,7 @@ Interestingly, when we plot the geographic coordinates for _Crime Central_ from 
 
 _Homicide Central_ is located approximately 3 miles south and 1 mile west of downtown Boston can assume a normal distribution of homicides relative to _Homicide Central_ , which isn't far-fetched if we consider the distributions found above in _FIGURE 2_ around the 3 mile marker and 1 mile marker, for latitude and longitude respectively. With a latitudinal standard deviation of about 1.8 miles, and a longitudinal standard deviation of about one mile, we can draw a border around the rectangular space where approximately 68% of all homicides occur. We can see this area represented by the red rectangle shown above in the 'Central Tendencies' map. Granted the measurement is just a ballpark, but this information provides a more specific area of Boston where anti-gun violence measures can be focused and concentrated.
 
-![image](https://user-images.githubusercontent.com/42311832/94984052-378e9a80-0505-11eb-98be-3643749bced6.png)
+![image](https://user-images.githubusercontent.com/42311832/94984095-bd124a80-0505-11eb-861f-1c434f31c332.png)
 
 ## Crime Fluctuation
 
