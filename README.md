@@ -102,4 +102,4 @@ The data in this data set could serve as a complement to data sets like those me
 
 I've also experimented with creating a sort of crime 'wind plot' which would indicate in which direction crime, or gun violence specifically, is migrating from year to year, for every square mile of the city. Each square mile would have the crime/gun violence trend indicated by a vector that indicates direction, and perhaps the magnitude of the vector used to indicate the distance in which that crime migrated. I'll also have to find a way to plot the data points a little bit more accurately upon the map, although at this point I'm not sure if I might have to find some way to account for the curvature of the earth.
 
-To see the entire project, complete with code, click <a href="https://github.com/Ikwuakor/Boston-Crime/blob/master/Boston%20Crime.ipynb">here</a>.
+### To see the entire project, complete with code, click <a href="https://github.com/Ikwuakor/Boston-Crime/blob/master/Boston%20Crime.ipynb">here</a>.
